@@ -1,4 +1,4 @@
-# Buzz - Quiz!
+# Buzz - Bug!
 Buzz quiz is a game like the [milionaire](https://wwbm.com/) ,you mostly answer questiong and get points if you are right.
 
 # The game
