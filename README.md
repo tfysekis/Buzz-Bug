@@ -1,9 +1,15 @@
+<<<<<<< HEAD
 # Buzz - Quiz!
+=======
+# Buzz - Bug!
+Buzz quiz is a game like the [milionaire](https://wwbm.com/) ,you mostly answer questiong and get points if you are right.
+>>>>>>> 6cec928aa107cdeb8ad954d62ad6bf2186f132c5
 
 Buzz quiz is a game similar to "Who Wants to Be a Millionaire?" where players answer questions to earn points.
 
 ## The game
 
+<<<<<<< HEAD
 The game can be played by one or two players. In the multiplayer version, there are 5 rounds, while the single player version has 3 rounds.
 
 - `Round 1`: Correctly answering a question earns the player 1000 points.
@@ -14,3 +20,6 @@ The game can be played by one or two players. In the multiplayer version, there 
 
 
 The game was developed using Java and CODEMR, which helped streamline the development process and create a smooth user experience. The game can be further improved by adding graphics to enhance the player's experience.
+=======
+###### The plan is to put some graphics to the future.
+>>>>>>> 6cec928aa107cdeb8ad954d62ad6bf2186f132c5
